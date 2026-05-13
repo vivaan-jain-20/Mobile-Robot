@@ -11,7 +11,7 @@ Welcome to the repository for our differential drive mobile robot project. Below
 
 * **[Circuit Schematic Diagram](Term%20Project%20Circuit.pdf):** A clean, readable PDF export of our Tinkercad circuit wiring and layout.
 * **[SolidWorks Assembly](Design.SLDASM):** The 3D CAD model of the robot chassis and mounted components. *(Requires SolidWorks to open).*
-* **[Live Circuit Simulation](https://www.tinkercad.com/things/kBoQu39QeBM-term-project-circuit?sharecode=-wUQd70RwI0fWMAtYib69OXMks7jlDCXXQEiqEbbyOA):**
+* **[Live Circuit Simulation](https://www.tinkercad.com/things/kBoQu39QeBM-term-project-circuit?sharecode=-wUQd70RwI0fWMAtYib69OXMks7jlDCXXQEiqEbbyOA)**
 
 ## 💻 Software
 
