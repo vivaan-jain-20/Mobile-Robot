@@ -4,7 +4,7 @@ Welcome to the repository for our differential drive mobile robot project. Below
 
 ## 📄 Project Documentation
 
-* **[Term Project Presentation](Term%20Project.pdf):** The full slide deck outlining the mechanical chassis specifications, component list, and FSM diagrams. *(Click to view directly in your browser!)*
+* **[Term Project Presentation](Term%20Project.pdf):** The full slide deck outlining the mechanical chassis specifications, component list, and FSM diagrams. 
 * **[Literature Review](Literature_review.docx):** Background research, methodology, and the theoretical foundation of the project.
 
 ## 🤖 Hardware & Circuit Design
@@ -20,7 +20,6 @@ Welcome to the repository for our differential drive mobile robot project. Below
 ## 🎥 Media Demonstration
 
 * **[Project Animation](Animation.mkv):** A video demonstration of the robot in action. 
-*(Note: GitHub does not natively play .mkv files in the browser, so you may need to click the "Download" or "View Raw" button to watch it locally).*
 
 ---
 *Developed by Vivaan Jain, Akshat Singh, and Ajay Pratap Singh Lodha.*
