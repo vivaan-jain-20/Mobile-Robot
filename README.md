@@ -22,4 +22,4 @@ Welcome to the repository for our differential drive mobile robot project. Below
 * **[Project Animation](Animation.mkv):** A video demonstration of the robot in action. 
 
 ---
-*Developed by Vivaan Jain, Akshat Singh, and Ajay Pratap Singh Lodha.*
+*Developed by Vivaan Jain and Akshat Singh.*
